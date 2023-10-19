@@ -1,6 +1,6 @@
 [
     {
-        "src":"http://qpypi3.qpython.org/pyshop/package/django-qpython",
+        "src":"http://qpypi3.qpython.org/pyshop/package/tornado-qpython",
         "rdate":"2023-10-19",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"tornado-qpython",
@@ -12,7 +12,7 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi3.qpython.org/pyshop/package/tornado-qpython",
+        "src":"http://qpypi3.qpython.org/pyshop/package/django-qpython",
         "rdate":"2023-10-19",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"Django",
