@@ -6,8 +6,8 @@
         "smodule":"qedit4web.py",
         "description":"Qeditor web for qpython",
         "title":"Qedit web",
-        "ver":"0.9.0",
-        "downloads": 100,
+        "ver":"1.0.0",
+        "downloads": 1000,
         "cat":"script"
     }
 ]
