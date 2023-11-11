@@ -2,7 +2,7 @@
     {
         "src":"http://qpython.org",
         "rdate":"2017-06-15",
-        "link":"http://dl.qpy.io/2x/scripts/qedit4web.py",
+        "link":"http://io.qpython.org/2x/scripts/qedit4web.py",
         "smodule":"qedit4web.py",
         "description":"Edit with browser from your PC",
         "title":"QEditor",
@@ -13,7 +13,7 @@
     {
         "src":"http://qpython.org",
         "rdate":"2017-06-15",
-        "link":"http://dl.qpy.io/2x/scripts/djangoman.py",
+        "link":"http://io.qpython.org/2x/scripts/djangoman.py",
         "smodule":"djangoman.py",
         "description":"Manage Django project",
         "title":"Django Manager",
