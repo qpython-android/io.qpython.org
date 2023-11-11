@@ -4,10 +4,10 @@
         "rdate":"2023-10-19",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"Django",
-        "tmodule":"django-4.6.2.dist-info",
+        "tmodule":"django-4.2.7.dist-info",
         "description":"Django",
         "title":"Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design",
-        "ver":"4.6.2",
+        "ver":"4.2.7",
         "downloads": "15,000+",
         "cat":"qpypi"
     },
