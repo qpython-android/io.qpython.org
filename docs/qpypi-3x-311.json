@@ -4,10 +4,22 @@
         "rdate":"2023-10-19",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"Django",
-        "tmodule":"Django-4.6.2-py3.11.egg-info",
+        "tmodule":"django-4.6.2.dist-info",
         "description":"Django",
         "title":"Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design",
         "ver":"4.6.2",
+        "downloads": "15,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi3.qpython.org/pyshop/package/flask-qpython",
+        "rdate":"2023-11-11",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"Flask",
+        "tmodule":"flask-3.0.0.dist-info",
+        "description":"Flask",
+        "title":"A simple framework for building complex web applications",
+        "ver":"3.0.0",
         "downloads": "15,000+",
         "cat":"qpypi"
     }
