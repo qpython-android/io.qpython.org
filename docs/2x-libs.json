@@ -2,7 +2,7 @@
     {
         "src":"http://qpython.org",
         "rdate":"2017-06-15",
-        "link":"http://dl.qpy.io/2x/scripts/qedit4web.py",
+        "link":"http://io.qpython.org/2x/scripts/qedit4web.py",
         "smodule":"qedit4web.py",
         "description":"Qeditor web for qpython",
         "title":"Qedit web",
@@ -13,7 +13,7 @@
     {
         "src":"http://qpython.org",
         "rdate":"2017-06-15",
-        "link":"http://dl.qpy.io/2x/scripts/pip4console.py",
+        "link":"http://io.qpython.org/2x/scripts/pip4console.py",
         "smodule":"pip4console.py",
         "description":"Pip console script for qpython",
         "title":"Pip console script",
@@ -24,7 +24,7 @@
     {
         "src":"http://qpython.org",
         "rdate":"2017-06-15",
-        "link":"http://dl.qpy.io/2x/scripts/djangoman.py",
+        "link":"http://io.qpython.org/2x/scripts/djangoman.py",
         "smodule":"djangoman.py",
         "description":"Django manage tool for qpython",
         "title":"Django manage script",
@@ -35,7 +35,7 @@
     {
         "src":"http://qpython.org",
         "rdate":"2017-06-15",
-        "link":"http://dl.qpy.io/2x/scripts/sqlmapman.py",
+        "link":"http://io.qpython.org/2x/scripts/sqlmapman.py",
         "smodule":"sqlmapman.py",
         "description":"sqlmap tool for qpython",
         "title":"sqlmap tool for qpython",
@@ -46,7 +46,7 @@
     {
         "src":"http://qpython.org",
         "rdate":"2017-06-15",
-        "link":"http://dl.qpy.io/2x/scripts/scapyman.py",
+        "link":"http://io.qpython.org/2x/scripts/scapyman.py",
         "smodule":"scapyman.py",
         "description":"scapy tool for qpython",
         "title":"scapy tool for qpython",
@@ -57,7 +57,7 @@
     {
         "src":"http://qpython.org",
         "rdate":"2017-06-15",
-        "link":"http://dl.qpy.io/2x/scripts/fabricman.py",
+        "link":"http://io.qpython.org/2x/scripts/fabricman.py",
         "smodule":"fabricman.py",
         "description":"Fabric tool for qpython",
         "title":"Fabric tool for qpython",
