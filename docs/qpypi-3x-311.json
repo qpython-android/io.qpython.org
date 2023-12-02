@@ -39,7 +39,7 @@
         "src":"http://qpypi3.qpython.org/pyshop/package/sqlalchemy-aipy",
         "rdate":"2023-11-27",
         "link":"http://qpypi3.qpython.org/simple",
-        "smodule":"sqlalchemy",
+        "smodule":"sqlalchemy-aipy",
         "tmodule":"sqlalchemy-aipy-2.0.23.dist-info",
         "description":"The Database Toolkit for Python",
         "title":"SQLAlchemy - The Database Toolkit for QPython",
