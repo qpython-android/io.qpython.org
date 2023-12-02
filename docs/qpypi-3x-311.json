@@ -30,7 +30,7 @@
         "smodule":"mysql-connector",
         "tmodule":"mysql_connector-2.2.9.dist-info",
         "description":"MySQL driver written in pure Python",
-        "title":"MySQL Connector: MySQL driver written in pure Python",
+        "title":"MySQL Connector - A MySQL driver written in pure Python",
         "ver":"2.2.9",
         "downloads": "10,000+",
         "cat":"qpypi"
