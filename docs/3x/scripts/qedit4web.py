@@ -18,14 +18,14 @@ import socket
 import time
 import zipfile
 import json
+import qpy
 
 # ---- INIT ----
 
 
-DST_S = 'http://qpy.io'
+DST_S = 'https://io.qpython.org'
 
-PROJ_ROOT = '/storage/emulated/0/Android/data/org.qpython.qpy/files'
-ROOT = PROJ_ROOT
+ROOT = qpy.home
 
 # ASSETS = "/assets/"
 
@@ -122,7 +122,7 @@ var b=c.attr("class")=="file-tree-folder";var a=c.parent().next().css("display")
 
 
 def api_file_tree():
-    file_tree = file_tree_packer(PROJ_ROOT) + 'cache:{"type":"folder", "content":{}}'
+    file_tree = file_tree_packer(ROOT) + 'cache:{"type":"folder", "content":{}}'
     # response.content_type = 'application/json'
     # return json.dumps(file_tree)
     response.headers['Access-Control-Allow-Origin'] = '*'
@@ -146,7 +146,7 @@ def file_tree_packer(path):
 
 def api_file_content():
     response.headers['Access-Control-Allow-Origin'] = '*'
-    path = PROJ_ROOT+'/'+request.GET.get('path')
+    path = ROOT+'/'+request.GET.get('path')
     file_object = open(path)
     try:
         all_the_text = file_object.read()
@@ -159,14 +159,14 @@ def api_file_content():
 
 def api_img_pre(file_path):
     response.headers['Access-Control-Allow-Origin'] = '*'
-    return static_file(file_path, root=PROJ_ROOT)
+    return static_file(file_path, root=ROOT)
 
 
 def api_new_folder():
     response.headers['Access-Control-Allow-Origin'] = '*'
-    path = PROJ_ROOT+'/'+request.POST.get('path')
+    path = ROOT+'/'+request.POST.get('path')
     try:
-        os.mkdir(path)
+        os.makedirs(path)
     except:
         return 'err'
     return 'ok'
@@ -174,7 +174,7 @@ def api_new_folder():
 
 def api_del_file():
     response.headers['Access-Control-Allow-Origin'] = '*'
-    path = PROJ_ROOT+'/'+request.POST.get('path')
+    path = ROOT+'/'+request.POST.get('path')
     try:
         if os.path.isdir(path):
             shutil.rmtree(path[:-1])
@@ -187,7 +187,7 @@ def api_del_file():
 
 def api_save():
     response.headers['Access-Control-Allow-Origin'] = '*'
-    path = PROJ_ROOT+'/'+request.POST.get('path')
+    path = ROOT+'/'+request.POST.get('path')
     content = request.POST.get('content')
     try:
         file_object = open(path, 'w')
@@ -201,7 +201,7 @@ def api_save():
 
 def api_run():
     response.headers['Access-Control-Allow-Origin'] = '*'
-    path = PROJ_ROOT+'/'+request.POST.get('path')
+    path = ROOT+'/'+request.POST.get('path')
     try:
         import androidhelper
         droid = androidhelper.Android()
