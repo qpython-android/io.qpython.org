@@ -9,5 +9,16 @@
         "ver":"1.0.0",
         "downloads": 1000,
         "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2023-12-05",
+        "link":"http://io.qpython.org/notebooks/aipy-openai-001.ipynb",
+        "smodule":"aipy-openai-001.ipynb",
+        "description":"OpenAI notebook",
+        "title":"OpenAI notebook - cs001",
+        "ver":"1.0.0",
+        "downloads": 1000,
+        "cat":"notebooks"
     }
 ]
