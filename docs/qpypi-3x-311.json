@@ -58,5 +58,17 @@
         "ver":"3.1.2",
         "downloads": "500+",
         "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi3.qpython.org/pyshop/package/requests-qpython",
+        "rdate":"2023-12-06",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"requests",
+        "tmodule":"requests-2.31.0.dist-info",
+        "description":"Requests is a simple, yet elegant, HTTP library.",
+        "title":"Requests - Python HTTP for Humans.",
+        "ver":"2.31.0",
+        "downloads": "1,000+",
+        "cat":"qpypi"
     }
 ]
