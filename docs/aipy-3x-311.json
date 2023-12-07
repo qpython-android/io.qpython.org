@@ -35,7 +35,7 @@
         "downloads": "1,000+",
         "cat":"qpypi"
     },
-       {
+    {
         "src":"http://qpypi3.qpython.org/pyshop/package/numpy-aipy",
         "rdate":"2023-12-2",
         "link":"http://qpypi3.qpython.org/simple",
@@ -46,6 +46,17 @@
         "ver":"3.1.2",
         "downloads": "5,000+",
         "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi3.qpython.org/pyshop/package/matplotlib-aipy",
+        "rdate":"2023-12-7",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"matplotlib-aipy",
+        "tmodule":"matplotlib-aipy-3.8.0.dist-info",
+        "description":"Python plotting package",
+        "title":"Matplotlib - Python plotting package",
+        "ver":"3.8.0",
+        "downloads": "1,000+",
+        "cat":"qpypi"
     }
-
 ]
