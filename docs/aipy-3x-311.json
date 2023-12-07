@@ -52,10 +52,10 @@
         "rdate":"2023-12-7",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"matplotlib-aipy",
-        "tmodule":"matplotlib-aipy-3.8.0.dist-info",
+        "tmodule":"matplotlib-aipy-3.8.1.dist-info",
         "description":"Python plotting package",
         "title":"Matplotlib - Python plotting package",
-        "ver":"3.8.0",
+        "ver":"3.8.1",
         "downloads": "1,000+",
         "cat":"qpypi"
     }

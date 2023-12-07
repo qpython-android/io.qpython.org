@@ -34,7 +34,7 @@
         "ver":"2.2.9",
         "downloads": "10,000+",
         "cat":"qpypi"
-    },    
+    },
     {
         "src":"http://qpypi3.qpython.org/pyshop/package/sqlalchemy-aipy",
         "rdate":"2023-11-27",
@@ -68,6 +68,30 @@
         "description":"Requests is a simple, yet elegant, HTTP library.",
         "title":"Requests - Python HTTP for Humans.",
         "ver":"2.31.0",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi3.qpython.org/pyshop/package/lxml-qpython",
+        "rdate":"2023-12-07",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"lxml",
+        "tmodule":"lxml-qpython-4.9.0.dist-info",
+        "description":"Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.",
+        "title":"Lxml - Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.",
+        "ver":"4.9.0",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi3.qpython.org/pyshop/package/pillow-qpython",
+        "rdate":"2023-12-07",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"PIL",
+        "tmodule":"pillow-qpython-10.1.0.dist-info",
+        "description":"Python Imaging Library",
+        "title":"Pillow - Python Imaging Library",
+        "ver":"10.1.0",
         "downloads": "1,000+",
         "cat":"qpypi"
     }
