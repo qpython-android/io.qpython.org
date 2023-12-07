@@ -91,7 +91,7 @@
         "tmodule":"pillow-qpython-10.1.0.dist-info",
         "description":"Python Imaging Library",
         "title":"Pillow - Python Imaging Library",
-        "ver":"10.1.0",
+        "ver":"10.1.1",
         "downloads": "1,000+",
         "cat":"qpypi"
     }
