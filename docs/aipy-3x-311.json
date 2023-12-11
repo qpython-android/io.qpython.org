@@ -48,6 +48,18 @@
         "cat":"qpypi"
     },
     {
+        "src":"http://qpypi3.qpython.org/pyshop/package/scipy-aipy",
+        "rdate":"2023-12-11",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"scipy-aipy",
+        "tmodule":"scipy-aipy-1.11.3.dist-info",
+        "description":"Fundamental algorithms for scientific computing in Python",
+        "title":"Scipy - Fundamental algorithms for scientific computing in Python",
+        "ver":"1.11.3",
+        "downloads": "3,000+",
+        "cat":"qpypi"
+    },
+    {
         "src":"http://qpypi3.qpython.org/pyshop/package/matplotlib-aipy",
         "rdate":"2023-12-7",
         "link":"http://qpypi3.qpython.org/simple",
