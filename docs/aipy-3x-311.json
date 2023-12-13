@@ -70,5 +70,17 @@
         "ver":"3.8.1",
         "downloads": "1,000+",
         "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi3.qpython.org/pyshop/package/scikit-learn-aipy",
+        "rdate":"2023-12-13",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"scikit-learn-aipy",
+        "tmodule":"scikit-learn-aipy-1.3.2.dist-info",
+        "description":"A set of python modules for machine learning and data mining",
+        "title":"Scikit-learn - A Python module for machine learning built on top of SciPy",
+        "ver":"1.3.2",
+        "downloads": "1,000+",
+        "cat":"qpypi"
     }
 ]
