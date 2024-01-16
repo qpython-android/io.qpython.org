@@ -94,5 +94,17 @@
         "ver":"10.1.1",
         "downloads": "1,000+",
         "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi3.qpython.org/pyshop/package/aiohttp-aipy",
+        "rdate":"2023-12-07",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"aiohttp-aipy",
+        "tmodule":"aiohttp-aipy-3.8.13.dist-info",
+        "description":"Async http client/server framework (asyncio)",
+        "title":"Aiohttp - Async http client/server framework (asyncio)",
+        "ver":"3.8.13",
+        "downloads": "1,000+",
+        "cat":"qpypi"
     }
 ]
