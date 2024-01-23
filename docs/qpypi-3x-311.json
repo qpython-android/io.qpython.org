@@ -106,5 +106,17 @@
         "ver":"3.8.13",
         "downloads": "1,000+",
         "cat":"qpypi"
+    },    
+    {
+        "src":"http://qpypi3.qpython.org/pyshop/package/beautifulsoup4",
+        "rdate":"2024-01-23",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"beautifulsoup4",
+        "tmodule":"beautifulsoup4-4.12.2.dist-info",
+        "description":"Screen-scraping library",
+        "title":"BeautifulSoup: A library that makes it easy to scrape information from web pages",
+        "ver":"4.12.2",
+        "downloads": "1,000+",
+        "cat":"qpypi"
     }
 ]
