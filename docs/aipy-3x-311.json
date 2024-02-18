@@ -84,6 +84,18 @@
         "cat":"qpypi"
     },
     {
+        "src":"http://qpypi3.qpython.org/pyshop/package/opencv-aipy",
+        "rdate":"2024-2-18",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"opencv-aipy",
+        "tmodule":"opencv-aipy-4.0.62.dist-info",
+        "description":"Pre-built CPU-only OpenCV packages for Python.",
+        "title":"OpenCV - Pre-built CPU-only OpenCV packages for Python.",
+        "ver":"4.0.62",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
         "src":"http://qpypi3.qpython.org/pyshop/package/scikit-learn-aipy",
         "rdate":"2023-12-13",
         "link":"http://qpypi3.qpython.org/simple",
