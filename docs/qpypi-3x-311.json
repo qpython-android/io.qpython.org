@@ -27,7 +27,7 @@
         "src":"http://qpypi3.qpython.org/pyshop/package/mysql-connector-qpython",
         "rdate":"2023-11-11",
         "link":"http://qpypi3.qpython.org/simple",
-        "smodule":"mysql-connector",
+        "smodule":"mysql",
         "tmodule":"mysql_connector-2.2.9.dist-info",
         "description":"MySQL driver written in pure Python",
         "title":"MySQL Connector - A MySQL driver written in pure Python",
