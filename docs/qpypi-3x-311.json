@@ -29,7 +29,7 @@
     },
     {
         "src":"https://pypi.org/project/mysql-connector-python/",
-        "rsrc":",
+        "rsrc":"",
         "rdate":"2023-11-11",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"mysql-connector-python",
