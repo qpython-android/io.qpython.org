@@ -1,6 +1,6 @@
 [
    {
-        "src":"http://qpypi3.qpython.org/pyshop/package/apigptcloud",
+        "src":"https://pypi.org/project/apigptcloud/",
         "rsrc":"",
         "rdate":"2023-8-7",
         "link":"http://qpypi3.qpython.org/simple",
@@ -126,16 +126,16 @@
         "cat":"qpypi"
     },    
    {
-        "src":"http://qpypi3.qpython.org/pyshop/package/sympy-qpython",
+        "src":"https://pypi.org/project/sympy/",
         "rsrc":"",
         "rdate":"2023-12-22",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"sympy",
         "rmodule":"sympy",
-        "tmodule":"sympy-1.12.dist-info",
+        "tmodule":"sympy-1.13.dist-info",
         "description":"An open-source Python library for symbolic computation",
         "title":"Sympy - Python library for symbolic computation",
-        "ver":"1.12",
+        "ver":"1.13",
         "downloads": "1,000+",
         "cat":"qpypi"
     }
