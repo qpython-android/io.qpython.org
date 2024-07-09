@@ -1,6 +1,7 @@
 [
     {
-        "src":"http://qpypi3.qpython.org/pyshop/package/django-qpython",
+        "src":"https://pypi.org/project/Django/",
+        "rsrc":"",
         "rdate":"2023-10-19",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"django",
@@ -13,7 +14,8 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi3.qpython.org/pyshop/package/flask-qpython",
+        "src":"https://pypi.org/project/Flask/",
+        "rsrc":"",
         "rdate":"2023-11-11",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"flask",
@@ -26,20 +28,22 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi3.qpython.org/pyshop/package/mysql-connector-qpython",
+        "src":"https://pypi.org/project/mysql-connector-python/",
+        "rsrc":",
         "rdate":"2023-11-11",
         "link":"http://qpypi3.qpython.org/simple",
-        "smodule":"mysql-connector",
+        "smodule":"mysql-connector-python",
         "smodule":"mysql",
-        "tmodule":"mysql_connector-2.2.9.dist-info",
+        "tmodule":"mysql_connector_python-9.0.0.dist-info",
         "description":"MySQL driver written in pure Python",
         "title":"MySQL Connector - A MySQL driver written in pure Python",
-        "ver":"2.2.9",
+        "ver":"9.0.0",
         "downloads": "10,000+",
         "cat":"qpypi"
     },
     {
         "src":"http://qpypi3.qpython.org/pyshop/package/sqlalchemy-aipy",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/s/sqlalchemy-aipy-2.0.23.tar.gz",
         "rdate":"2023-11-27",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"sqlalchemy-aipy",
@@ -52,33 +56,36 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi3.qpython.org/pyshop/package/openpyxl-qpython",
+        "src":"https://pypi.org/project/openpyxl/",
+        "rsrc":"",
         "rdate":"2023-11-27",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"openpyxl",
         "rmodule":"openpyxl",
-        "tmodule":"openpyxl-3.1.2.dist-info",
+        "tmodule":"openpyxl-3.1.5.dist-info",
         "description":"A QPython library to read/write Excel 2010 xlsx/xlsm files",
         "title":"OpenPyXL - A QPython library to read/write Excel 2010 xlsx/xlsm files",
-        "ver":"3.1.2",
+        "ver":"3.1.5",
         "downloads": "500+",
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi3.qpython.org/pyshop/package/requests-qpython",
+        "src":"https://pypi.org/project/requests/",
+        "rsrc":"",
         "rdate":"2023-12-06",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"requests",
         "rmodule":"requests",
-        "tmodule":"requests-2.31.0.dist-info",
+        "tmodule":"requests-2.32.3.dist-info",
         "description":"Requests is a simple, yet elegant, HTTP library.",
         "title":"Requests - Python HTTP for Humans.",
-        "ver":"2.31.0",
+        "ver":"2.32.3",
         "downloads": "1,000+",
         "cat":"qpypi"
     },
     {
         "src":"http://qpypi3.qpython.org/pyshop/package/lxml-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/l/lxml-qpython-4.9.0.2.tar.gz",
         "rdate":"2023-12-07",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"lxml-qpython",
@@ -92,11 +99,12 @@
     },
     {
         "src":"http://qpypi3.qpython.org/pyshop/package/pillow-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/p/pillow-qpython-10.1.3.21.tar.gz",
         "rdate":"2023-12-07",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"pillow-qpython",
         "rmodule":"PIL",
-        "tmodule":"pillow-qpython-10.1.0.dist-info",
+        "tmodule":"pillow-qpython-10.1.3.dist-info",
         "description":"Python Imaging Library",
         "title":"Pillow - Python Imaging Library",
         "ver":"10.1.1",
@@ -105,6 +113,7 @@
     },
     {
         "src":"http://qpypi3.qpython.org/pyshop/package/aiohttp-aipy",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/a/aiohttp-aipy-3.8.13.tar.gz",
         "rdate":"2023-12-07",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"aiohttp-aipy",
@@ -117,15 +126,16 @@
         "cat":"qpypi"
     },    
     {
-        "src":"http://qpypi3.qpython.org/pyshop/package/beautifulsoup4",
+        "src":"https://pypi.org/project/beautifulsoup4/",
+        "rsrc":"",
         "rdate":"2024-01-23",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"beautifulsoup4",
         "rmodule":"bs4",
-        "tmodule":"beautifulsoup4-4.12.2.dist-info",
+        "tmodule":"beautifulsoup4-4.12.3.dist-info",
         "description":"Screen-scraping library",
         "title":"BeautifulSoup: A library that makes it easy to scrape information from web pages",
-        "ver":"4.12.2",
+        "ver":"4.12.3",
         "downloads": "1,000+",
         "cat":"qpypi"
     }
