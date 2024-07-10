@@ -32,7 +32,7 @@
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/l/langchain-aipy-0.0.349.tar.gz",
         "rdate":"2023-12-2",
         "link":"http://qpypi3.qpython.org/simple",
-        "smodule":"langchain-aipy",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/l/langchain-aipy-0.0.349.tar.gz",
         "rmodule":"langchain",
         "tmodule":"langchain-aipy-0.0.349.dist-info",
         "ver":"Beta",
