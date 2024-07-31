@@ -85,10 +85,10 @@
     },
     {
         "src":"http://qpypi3.qpython.org/pyshop/package/lxml-qpython",
-        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/l/lxml-qpython-4.9.0.2.tar.gz",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/l/lxml-qpython-4.9.0.4.tar.gz",
         "rdate":"2023-12-07",
         "link":"http://qpypi3.qpython.org/simple",
-        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/l/lxml-qpython-4.9.0.2.tar.gz",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/l/lxml-qpython-4.9.0.4.tar.gz",
         "rmodule":"lxml",
         "tmodule":"lxml-qpython-4.9.0.dist-info",
         "description":"Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.",
