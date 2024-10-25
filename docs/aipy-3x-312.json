@@ -1,0 +1,30 @@
+[
+   {
+        "src":"https://pypi.org/project/apigptcloud/",
+        "rsrc":"",
+        "rdate":"2023-8-7",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"apigptcloud",
+        "rmodule":"apigptcloud",
+        "tmodule":"apigptcloud-0.0.2.dist-info",
+        "ver":"Beta",
+        "title":"APIGPT - All in one AIGC API package for Python",
+        "description":"All in one AIGC API package for Python",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+   {
+        "src":"https://pypi.org/project/sympy/",
+        "rsrc":"",
+        "rdate":"2023-12-22",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"sympy",
+        "rmodule":"sympy",
+        "tmodule":"sympy-1.13.dist-info",
+        "description":"An open-source Python library for symbolic computation",
+        "title":"Sympy - Python library for symbolic computation",
+        "ver":"1.13",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    }
+]
