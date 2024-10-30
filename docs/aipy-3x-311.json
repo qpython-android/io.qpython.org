@@ -3,7 +3,7 @@
         "src":"https://pypi.org/project/apigptcloud/",
         "rsrc":"",
         "rdate":"2023-8-7",
-        "link":"http://qpypi3.qpython.org/simple",
+        "link":"https://qpypi3.qpython.org/simple",
         "smodule":"apigptcloud",
         "rmodule":"apigptcloud",
         "tmodule":"apigptcloud-0.0.2.dist-info",
@@ -14,10 +14,10 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi3.qpython.org/pyshop/package/openai-aipy",
+        "src":"https://qpypi3.qpython.org/pyshop/package/openai-aipy",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/o/openai-aipy-1.3.0.tar.gz",
         "rdate":"2023-12-2",
-        "link":"http://qpypi3.qpython.org/simple",
+        "link":"https://qpypi3.qpython.org/simple",
         "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/o/openai-aipy-1.3.0.tar.gz",
         "rmodule":"openai",
         "tmodule":"openai-aipy-1.3.0.dist-info",
@@ -28,10 +28,10 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi3.qpython.org/pyshop/package/langchain-aipy",
+        "src":"https://qpypi3.qpython.org/pyshop/package/langchain-aipy",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/l/langchain-aipy-0.0.349.tar.gz",
         "rdate":"2023-12-2",
-        "link":"http://qpypi3.qpython.org/simple",
+        "link":"https://qpypi3.qpython.org/simple",
         "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/l/langchain-aipy-0.0.349.tar.gz",
         "rmodule":"langchain",
         "tmodule":"langchain-aipy-0.0.349.dist-info",
@@ -42,10 +42,10 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi3.qpython.org/pyshop/package/numpy-aipy",
+        "src":"https://qpypi3.qpython.org/pyshop/package/numpy-aipy",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/n/numpy-aipy-1.26.5.1.tar.gz",
         "rdate":"2023-12-2",
-        "link":"http://qpypi3.qpython.org/simple",
+        "link":"https://qpypi3.qpython.org/simple",
         "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/n/numpy-aipy-1.26.5.1.tar.gz",
         "rmodule":"numpy",
         "tmodule":"numpy-aipy-1.26.5.dist-info",
@@ -56,10 +56,10 @@
         "cat":"qpypi"
     },
        {
-        "src":"http://qpypi3.qpython.org/pyshop/package/pandas-aipy",
+        "src":"https://qpypi3.qpython.org/pyshop/package/pandas-aipy",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/p/pandas-aipy-2.1.3.tar.gz",
         "rdate":"2024-2-16",
-        "link":"http://qpypi3.qpython.org/simple",
+        "link":"https://qpypi3.qpython.org/simple",
         "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/p/pandas-aipy-2.1.3.tar.gz",
         "rmodule":"pandas",
         "tmodule":"pandas-aipy-2.1.3.dist-info",
@@ -70,10 +70,10 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi3.qpython.org/pyshop/package/scipy-aipy",
+        "src":"https://qpypi3.qpython.org/pyshop/package/scipy-aipy",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/s/scipy-aipy-1.11.3.0.tar.gz",
         "rdate":"2023-12-11",
-        "link":"http://qpypi3.qpython.org/simple",
+        "link":"https://qpypi3.qpython.org/simple",
         "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/s/scipy-aipy-1.11.3.0.tar.gz",
         "rmodule":"scipy",
         "tmodule":"scipy-aipy-1.11.3.dist-info",
@@ -84,10 +84,10 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi3.qpython.org/pyshop/package/matplotlib-aipy",
+        "src":"https://qpypi3.qpython.org/pyshop/package/matplotlib-aipy",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/m/matplotlib-aipy-3.8.1.4.tar.gz",
         "rdate":"2023-12-7",
-        "link":"http://qpypi3.qpython.org/simple",
+        "link":"https://qpypi3.qpython.org/simple",
         "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/m/matplotlib-aipy-3.8.1.4.tar.gz",
         "rmodule":"matplotlib",
         "tmodule":"matplotlib-aipy-3.8.1.dist-info",
@@ -98,10 +98,10 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi3.qpython.org/pyshop/package/opencv-aipy",
+        "src":"https://qpypi3.qpython.org/pyshop/package/opencv-aipy",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/o/opencv-aipy-4.0.62.tar.gz",
         "rdate":"2024-2-18",
-        "link":"http://qpypi3.qpython.org/simple",
+        "link":"https://qpypi3.qpython.org/simple",
         "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/o/opencv-aipy-4.0.62.tar.gz",
         "rmodule":"cv2",
         "tmodule":"opencv-aipy-4.0.62.dist-info",
@@ -112,10 +112,10 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi3.qpython.org/pyshop/package/scikit-learn-aipy",
+        "src":"https://qpypi3.qpython.org/pyshop/package/scikit-learn-aipy",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/s/scikit-learn-aipy-1.11.4.1.tar.gz",
         "rdate":"2023-12-13",
-        "link":"http://qpypi3.qpython.org/simple",
+        "link":"https://qpypi3.qpython.org/simple",
         "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/s/scikit-learn-aipy-1.11.4.1.tar.gz",
         "rmodule":"sklearn",
         "tmodule":"scikit-learn-aipy-1.3.2.dist-info",
@@ -129,7 +129,7 @@
         "src":"https://pypi.org/project/sympy/",
         "rsrc":"",
         "rdate":"2023-12-22",
-        "link":"http://qpypi3.qpython.org/simple",
+        "link":"https://qpypi3.qpython.org/simple",
         "smodule":"sympy",
         "rmodule":"sympy",
         "tmodule":"sympy-1.13.dist-info",
