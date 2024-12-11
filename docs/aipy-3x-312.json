@@ -97,7 +97,7 @@
         "downloads": "3,000+",
         "cat":"qpypi"
     },
-   {
+    {
         "src":"https://pypi.org/project/sympy/",
         "rsrc":"",
         "rdate":"2023-12-22",
@@ -108,6 +108,20 @@
         "description":"An open-source Python library for symbolic computation",
         "title":"Sympy - Python library for symbolic computation",
         "ver":"1.13",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"https://pypi.org/project/mpmath/",
+        "rsrc":"",
+        "rdate":"2023-12-22",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"mpmath",
+        "rmodule":"mpmath",
+        "tmodule":"sympy-1.3.0.dist-info",
+        "description":"A Python library for arbitrary-precision floating-point arithmetic.",
+        "title":"Mpmath - Python library for arbitrary-precision floating-point arithmetic",
+        "ver":"1.3.0",
         "downloads": "1,000+",
         "cat":"qpypi"
     }
