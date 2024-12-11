@@ -1,5 +1,19 @@
 [
     {
+        "src":"https://qpypi312.qpython.org/pyshop/package/pydantic-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/p/pydantic-qpython-2.9.2.1.tar.gz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/p/pydantic-qpython-2.9.2.1.tar.gz",
+        "rmodule":"pydantic-qpython",
+        "tmodule":"pydantic-qpython-2.9.2.1.dist-info",
+        "description":"Define how data should be in pure, canonical Python 3.8+; validate it with Pydantic.",
+        "title":"Pydantic - Data validation using Python type hints.",
+        "ver":"2.9.2.1",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },   
+    {
         "src":"https://pypi.org/project/requests/",
         "rsrc":"",
         "rdate":"2023-12-06",
