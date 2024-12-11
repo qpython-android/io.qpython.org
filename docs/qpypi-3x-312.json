@@ -1,5 +1,33 @@
 [
     {
+        "src":"https://pypi.org/project/requests/",
+        "rsrc":"",
+        "rdate":"2023-12-06",
+        "link":"https://qpypi3.qpython.org/simple",
+        "smodule":"requests",
+        "rmodule":"requests",
+        "tmodule":"requests-2.32.3.dist-info",
+        "description":"Requests is a simple, yet elegant, HTTP library.",
+        "title":"Requests - Python HTTP for Humans.",
+        "ver":"2.32.3",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"https://qpypi312.qpython.org/pyshop/package/aiohttp-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/a/aiohttp-qpython-3.10.10.1.tar.gz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/a/aiohttp-qpython-3.10.10.1.tar.gz",
+        "rmodule":"aiohttp",
+        "tmodule":"aiohttp-aipy-3.10.10.1.dist-info",
+        "description":"Async http client/server framework (asyncio)",
+        "title":"Aiohttp - Async http client/server framework (asyncio)",
+        "ver":"3.10.10.1",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },   
+    {
         "src":"https://pypi.org/project/Django/",
         "rsrc":"",
         "rdate":"2023-10-19",
@@ -28,6 +56,20 @@
         "cat":"qpypi"
     },
     {
+        "src":"https://qpypi312.qpython.org/pyshop/package/sqlalchemy-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/sqlalchemy-qpython-2.0.36.tar.gz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/sqlalchemy-qpython-2.0.36.tar.gz",
+        "rmodule":"sqlalchemy",
+        "tmodule":"sqlalchemy-qpython-2.0.36.dist-info",
+        "description":"The Database Toolkit for Python",
+        "title":"SQLAlchemy - The Database Toolkit for QPython",
+        "ver":"2.0.36",
+        "downloads": "1000+",
+        "cat":"qpypi"
+    },
+    {
         "src":"https://pypi.org/project/mysql-connector-python/",
         "rsrc":"",
         "rdate":"2023-11-11",
@@ -39,6 +81,20 @@
         "title":"MySQL Connector - A MySQL driver written in pure Python",
         "ver":"9.0.0",
         "downloads": "10,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"https://qpypi312.qpython.org/pyshop/package/lxml-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/l/lxml-qpython-5.3.0.tar.gz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/l/lxml-qpython-5.3.0.tar.gz",
+        "rmodule":"lxml",
+        "tmodule":"lxml-qpython-5.3.0.dist-info",
+        "description":"Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.",
+        "title":"Lxml - Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.",
+        "ver":"5.3.0",
+        "downloads": "1,000+",
         "cat":"qpypi"
     },
     {
@@ -56,20 +112,6 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://pypi.org/project/requests/",
-        "rsrc":"",
-        "rdate":"2023-12-06",
-        "link":"https://qpypi3.qpython.org/simple",
-        "smodule":"requests",
-        "rmodule":"requests",
-        "tmodule":"requests-2.32.3.dist-info",
-        "description":"Requests is a simple, yet elegant, HTTP library.",
-        "title":"Requests - Python HTTP for Humans.",
-        "ver":"2.32.3",
-        "downloads": "1,000+",
-        "cat":"qpypi"
-    },
-    {
         "src":"https://pypi.org/project/beautifulsoup4/",
         "rsrc":"",
         "rdate":"2024-01-23",
@@ -80,6 +122,20 @@
         "description":"Screen-scraping library",
         "title":"BeautifulSoup: A library that makes it easy to scrape information from web pages",
         "ver":"4.12.3",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+        {
+        "src":"https://qpypi312.qpython.org/pyshop/package/pillow-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/p/pillow-qpython-10.4.0.tar.gz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/p/pillow-qpython-10.4.0.tar.gz",
+        "rmodule":"PIL",
+        "tmodule":"pillow-qpython-10.4.0.dist-info",
+        "description":"Python Imaging Library",
+        "title":"Pillow - Python Imaging Library",
+        "ver":"10.4.0",
         "downloads": "1,000+",
         "cat":"qpypi"
     }
