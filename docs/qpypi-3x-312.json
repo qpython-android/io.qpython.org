@@ -1,4 +1,4 @@
-[
+[ 
     {
         "src":"https://qpypi312.qpython.org/pyshop/package/pydantic-qpython",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/p/pydantic-qpython-2.9.2.1.tar.gz",
@@ -12,7 +12,7 @@
         "ver":"2.9.2.1",
         "downloads": "1,000+",
         "cat":"qpypi"
-    },   
+    }, 
     {
         "src":"https://pypi.org/project/requests/",
         "rsrc":"",
@@ -98,6 +98,20 @@
         "cat":"qpypi"
     },
     {
+        "src":"https://qpypi312.qpython.org/pyshop/package/orjson-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/o/orjson-qpython-3.10.11.tar.gz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/o/orjson-qpython-3.10.11.tar.gz",
+        "rmodule":"orjon-qpython",
+        "tmodule":"orjon-qpython-3.10.11.dist-info",
+        "description":"Orjson is a fast, correct JSON library for Python",
+        "title":"Orjson - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy",
+        "ver":"3.10.11",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },  
+    {
         "src":"https://qpypi312.qpython.org/pyshop/package/lxml-qpython",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/l/lxml-qpython-5.3.0.tar.gz",
         "rdate":"2024-12-12",
@@ -139,7 +153,7 @@
         "downloads": "1,000+",
         "cat":"qpypi"
     },
-        {
+    {
         "src":"https://qpypi312.qpython.org/pyshop/package/pillow-qpython",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/p/pillow-qpython-10.4.0.tar.gz",
         "rdate":"2024-12-12",
