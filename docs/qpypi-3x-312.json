@@ -155,10 +155,10 @@
     },
     {
         "src":"https://qpypi312.qpython.org/pyshop/package/pillow-qpython",
-        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/p/pillow-qpython-10.4.0.tar.gz",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/p/pillow-qpython-10.4.0.tar.gz",
         "rdate":"2024-12-12",
         "link":"https://qpypi312.qpython.org/simple",
-        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository/p/pillow-qpython-10.4.0.tar.gz",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/p/pillow-qpython-10.4.0.tar.gz",
         "rmodule":"PIL",
         "tmodule":"pillow_qpython-10.4.0.dist-info",
         "description":"Python Imaging Library",
