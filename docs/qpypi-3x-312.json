@@ -28,6 +28,20 @@
         "cat":"qpypi"
     },
     {
+        "src":"https://qpypi312.qpython.org/pyshop/package/twisted-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/t/twisted-qpython-24.7.0.1.tar.gz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/a/twisted-qpython-24.7.0.1.tar.gz",
+        "rmodule":"twisted",
+        "tmodule":"twisted_qpython-24.7.0.1.dist-info",
+        "description":"Twisted is a Python event-based framework for internet applications",
+        "title":"Twisted - An asynchronous networking framework written in Python",
+        "ver":"24.7.0.1",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },   
+    {
         "src":"https://qpypi312.qpython.org/pyshop/package/aiohttp-qpython",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/a/aiohttp-qpython-3.10.10.1.tar.gz",
         "rdate":"2024-12-12",
