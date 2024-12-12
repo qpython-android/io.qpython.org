@@ -14,7 +14,7 @@
         "cat":"qpypi"
     }, 
     {
-        "src":"https://pypi.org/project/requests/",
+        "src":"https://pypi.org/project/requests",
         "rsrc":"",
         "rdate":"2023-12-06",
         "link":"https://qpypi3.qpython.org/simple",
@@ -32,7 +32,7 @@
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/t/twisted-qpython-24.7.0.1.tar.gz",
         "rdate":"2024-12-12",
         "link":"https://qpypi312.qpython.org/simple",
-        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/a/twisted-qpython-24.7.0.1.tar.gz",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/t/twisted-qpython-24.7.0.1.tar.gz",
         "rmodule":"twisted",
         "tmodule":"twisted_qpython-24.7.0.1.dist-info",
         "description":"Twisted is a Python event-based framework for internet applications",
@@ -56,7 +56,7 @@
         "cat":"qpypi"
     },   
     {
-        "src":"https://pypi.org/project/Django/",
+        "src":"https://pypi.org/project/Django",
         "rsrc":"",
         "rdate":"2023-10-19",
         "link":"https://qpypi3.qpython.org/simple",
@@ -70,7 +70,7 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://pypi.org/project/Flask/",
+        "src":"https://pypi.org/project/Flask",
         "rsrc":"",
         "rdate":"2023-11-11",
         "link":"https://qpypi3.qpython.org/simple",
@@ -98,7 +98,7 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://pypi.org/project/mysql-connector-python/",
+        "src":"https://pypi.org/project/mysql-connector-python",
         "rsrc":"",
         "rdate":"2023-11-11",
         "link":"https://qpypi3.qpython.org/simple",
@@ -140,7 +140,7 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://pypi.org/project/openpyxl/",
+        "src":"https://pypi.org/project/openpyxl",
         "rsrc":"",
         "rdate":"2023-11-27",
         "link":"https://qpypi3.qpython.org/simple",
@@ -154,7 +154,7 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://pypi.org/project/beautifulsoup4/",
+        "src":"https://pypi.org/project/beautifulsoup4",
         "rsrc":"",
         "rdate":"2024-01-23",
         "link":"https://qpypi3.qpython.org/simple",
@@ -177,6 +177,20 @@
         "tmodule":"pillow_qpython-10.4.0.dist-info",
         "description":"Python Imaging Library",
         "title":"Pillow - Python Imaging Library",
+        "ver":"10.4.0",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"https://qpypi312.qpython.org/pyshop/package/cryptography-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/c/cryptography-qpython-43.0.1.tar.gz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/c/cryptography-qpython-43.0.1.tar.gz",
+        "rmodule":"cryptography",
+        "tmodule":"cryptography_qpython-43.0.1.dist-info",
+        "description":"cryptography is a package which provides cryptographic recipes and primitives to Python developers.",
+        "title":"Cryptography - It provides cryptographic recipes and primitives",
         "ver":"10.4.0",
         "downloads": "1,000+",
         "cat":"qpypi"
