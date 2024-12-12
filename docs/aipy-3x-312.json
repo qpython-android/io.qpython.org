@@ -42,20 +42,20 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://qpypi312.qpython.org/pyshop/package/numpy-aipy",
-        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/n/numpy-aipy-2.1.2.tar.gz",
+        "src":"https://qpypi312.qpython.org/pyshop/package/matplotlib-aipy",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/m/matplotlib-aipy-3.9.2.tar.gz",
         "rdate":"2024-12-12",
         "link":"https://qpypi312.qpython.org/simple",
-        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/n/numpy-aipy-2.1.2.tar.gz",
-        "rmodule":"numpy",
-        "tmodule":"numpy_aipy-2.1.2.dist-info",
-        "description":"The fundamental package needed for scientific computing with Python",
-        "title":"Numpy - The fundamental package needed for scientific computing",
-        "ver":"2.1.2",
-        "downloads": "5,000+",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/m/matplotlib-aipy-3.9.2.tar.gz",
+        "rmodule":"matplotlib",
+        "tmodule":"matplotlib_aipy-3.9.2.dist-info",
+        "description":"Python plotting package",
+        "title":"Matplotlib - Python plotting package",
+        "ver":"3.9.2",
+        "downloads": "3,000+",
         "cat":"qpypi"
     },
-       {
+    {
         "src":"https://qpypi312.qpython.org/pyshop/package/pandas-aipy",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/p/pandas-aipy-2.2.3.tar.gz",
         "rdate":"2024-12-12",
@@ -67,6 +67,20 @@
         "title":"Pandas - Powerful data structures for data analysis, time series, and statistics",
         "ver":"2.2.3",
         "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"https://qpypi312.qpython.org/pyshop/package/scikit-learn-aipy",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/scikit-learn-aipy-1.5.2.tar.gzz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/scikit-learn-aipy-1.5.2.tar.gz",
+        "rmodule":"sklearn",
+        "tmodule":"scikit_learn_aipy-1.5.2.dist-info",
+        "description":"scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.",
+        "title":"Scikit-learn - A set of python modules for machine learning and data mining",
+        "ver":"1.5.2",
+        "downloads": "2,000+",
         "cat":"qpypi"
     },
     {
@@ -84,17 +98,17 @@
         "cat":"qpypi"
     },
     {
-        "src":"https://qpypi312.qpython.org/pyshop/package/matplotlib-aipy",
-        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/m/matplotlib-aipy-3.9.2.tar.gz",
+        "src":"https://qpypi312.qpython.org/pyshop/package/numpy-aipy",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/n/numpy-aipy-2.1.2.tar.gz",
         "rdate":"2024-12-12",
         "link":"https://qpypi312.qpython.org/simple",
-        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/m/matplotlib-aipy-3.9.2.tar.gz",
-        "rmodule":"matplotlib",
-        "tmodule":"matplotlib_aipy-3.9.2.dist-info",
-        "description":"Python plotting package",
-        "title":"Matplotlib - Python plotting package",
-        "ver":"3.9.2",
-        "downloads": "3,000+",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/n/numpy-aipy-2.1.2.tar.gz",
+        "rmodule":"numpy",
+        "tmodule":"numpy_aipy-2.1.2.dist-info",
+        "description":"The fundamental package needed for scientific computing with Python",
+        "title":"Numpy - The fundamental package needed for scientific computing",
+        "ver":"2.1.2",
+        "downloads": "5,000+",
         "cat":"qpypi"
     },
     {
