@@ -208,5 +208,19 @@
         "ver":"10.4.0",
         "downloads": "1,000+",
         "cat":"qpypi"
+    },
+    {
+        "src":"https://qpypi312.qpython.org/pyshop/package/pyzmq-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/p/pyzmq-qpython-25.1.2.tar.gz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/p/pyzmq-qpython-25.1.2.tar.gz",
+        "rmodule":"PyZMQ",
+        "tmodule":"pyzmq_qpython-25.1.2.dist-info",
+        "description":"Python bindings for 0MQ",
+        "title":"PyZMQ - Python bindings for ØMQ",
+        "ver":"25.1.2",
+        "downloads": "1,000+",
+        "cat":"qpypi"
     }
 ]
