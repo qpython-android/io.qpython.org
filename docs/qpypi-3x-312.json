@@ -14,6 +14,20 @@
         "cat":"qpypi"
     },
     {
+        "src":"https://qpypi312.qpython.org/pyshop/package/fastapi-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/f/fastapi-qpython-0.115.6.1.tar.gz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/f/fastapi-qpython-0.115.6.1.tar.gz",
+        "rmodule":"fastapi",
+        "tmodule":"fastapi_qpython-0.115.6.1.dist-info",
+        "description":"FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "title":"FastAPI framework - high performance, easy to learn, fast to code, ready for production",
+        "ver":"0.115.6.1",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    }, 
+    {
         "src":"https://pypi.org/project/Flask",
         "rsrc":"",
         "rdate":"2023-11-11",
