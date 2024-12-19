@@ -23,6 +23,28 @@
     },
     {
         "src":"http://qpython.org",
+        "rdate":"2023-11-11",
+        "link":"http://io.qpython.org/3x/scripts/qsl4adashboard.py",
+        "smodule":"qsl4adashboard.py",
+        "description":"2024/12/19 updated",
+        "title":"QSL4A Dashboard",
+        "ver":"1.0.0",
+        "downloads": "1,000+",
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2023-12-05",
+        "link":"http://io.qpython.org/notebooks/qsl4a-samples.ipynb",
+        "smodule":"qsl4a-samples.ipynb",
+        "description":"QSL4A Samples notebook",
+        "title":"[QPY]QSL4A Samples",
+        "ver":"1.0.0",
+        "downloads": "1,000+",
+        "cat":"notebook"
+    },
+    {
+        "src":"http://qpython.org",
         "rdate":"2023-12-05",
         "link":"http://io.qpython.org/notebooks/aipy-matplotlib-001-cn.ipynb",
         "smodule":"aipy-matplotlib-001-cn.ipynb",
