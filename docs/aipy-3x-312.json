@@ -56,6 +56,20 @@
         "cat":"qpypi"
     },
     {
+        "src":"https://qpypi312.qpython.org/pyshop/package/seaborn-aipy",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/seaborn-aipy-0.13.2.tar.gz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/seaborn-aipy-0.13.2.tar.gz",
+        "rmodule":"seaborn",
+        "tmodule":"seaborn_aipy-0.13.2.dist-info",
+        "description":"Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.",
+        "title":"Seaborn - Statistical data visualization",
+        "ver":"0.13.2",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
         "src":"https://qpypi312.qpython.org/pyshop/package/pandas-aipy",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/p/pandas-aipy-2.2.3.tar.gz",
         "rdate":"2024-12-12",
