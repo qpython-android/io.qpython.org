@@ -42,6 +42,20 @@
         "cat":"qpypi"
     },
     {
+        "src":"https://qpypi312.qpython.org/pyshop/package/torch-aipy",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/t/torch-aipy-2.5.0.4.tar.gz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/t/torch-aipy-2.5.0.4.tar.gz",
+        "rmodule":"torch",
+        "tmodule":"torch_aipy-2.5.0.4.dist-info",
+        "description":"Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "title":"PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "ver":"2.5.0.4",
+        "downloads": "3,000+",
+        "cat":"qpypi"
+    },
+    {
         "src":"https://qpypi312.qpython.org/pyshop/package/matplotlib-aipy",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/m/matplotlib-aipy-3.9.2.tar.gz",
         "rdate":"2024-12-12",
