@@ -140,6 +140,20 @@
         "cat":"qpypi"
     },
     {
+        "src":"https://qpypi312.qpython.org/pyshop/package/opencv-aipy",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/o/opencv-aipy-4.10.0.tar.gz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/o/opencv-aipy-4.10.0.tar.gz",
+        "rmodule":"Opencv",
+        "tmodule":"opencv_aipy-4.10.0.dist-info",
+        "description":"OpenCV is raising funds to keep the library free for everyone, and we need the support of the entire community to do it",
+        "title":"OpenCV - Wrapper package for OpenCV python bindings",
+        "ver":"4.10.0",
+        "downloads": "3,000+",
+        "cat":"qpypi"
+    },
+    {
         "src":"https://pypi.org/project/sympy/",
         "rsrc":"",
         "rdate":"2023-12-22",
