@@ -28,6 +28,20 @@
         "cat":"qpypi"
     }, 
     {
+        "src":"https://qpypi312.qpython.org/pyshop/package/tkinter-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/t/tkinter-qpython-8.6.0.5.tar.gz",
+        "rdate":"2025-3-22",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/t/tkinter-qpython-8.6.0.5.tar.gz",
+        "rmodule":"tkinter",
+        "tmodule":"tkinter_qpython-8.6.0.5.dist-info",
+        "description":"Python interface to Tcl/Tk",
+        "title":"Tkinter - Python interface to Tcl/Tk",
+        "ver":"8.6.0.5",
+        "downloads": "100+",
+        "cat":"qpypi"
+    }, 
+    {
         "src":"https://pypi.org/project/Flask",
         "rsrc":"",
         "rdate":"2023-11-11",
