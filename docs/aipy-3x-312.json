@@ -28,6 +28,20 @@
         "cat":"qpypi"
     },
     {
+        "src":"https://qpypi312.qpython.org/pyshop/package/langgraph-aipy",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/l/langgraph-aipy-0.3.18.tar.gz",
+        "rdate":"2025-3-22",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/l/langgraph-aipy-0.3.18.tar.gz",
+        "rmodule":"langgraph",
+        "tmodule":"langgraph_aipy-0.3.18.dist-info",
+        "ver":"0.3.18",
+        "title":"Langgraph - Building stateful, multi-actor applications with LLMs",
+        "description":"Building stateful, multi-actor applications with LLMs",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
         "src":"https://qpypi312.qpython.org/pyshop/package/langchain-aipy",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/l/langchain-aipy-0.3.21.tar.gz",
         "rdate":"2025-3-22",
