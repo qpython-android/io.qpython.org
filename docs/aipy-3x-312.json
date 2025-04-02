@@ -28,6 +28,20 @@
         "cat":"qpypi"
     },
     {
+        "src":"https://qpypi312.qpython.org/pyshop/package/google-genai-aipy",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/g/google-genai-aipy-1.9.0.tar.gz",
+        "rdate":"2025-4-2",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/g/google-genai-aipy-1.9.0.tar.gz",
+        "rmodule":"google",
+        "tmodule":"google_genai_aipy-1.9.0.dist-info",
+        "ver":"1.9.0",
+        "title":"Google Gen AI SDK - The official Python library for the Google Gen AI",
+        "description":"Google Gen AI SDK  supports the Gemini Developer API and Vertex AI APIs",
+        "downloads": "500+",
+        "cat":"qpypi"
+    },
+    {
         "src":"https://qpypi312.qpython.org/pyshop/package/langgraph-aipy",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/l/langgraph-aipy-0.3.18.tar.gz",
         "rdate":"2025-3-22",
