@@ -76,10 +76,10 @@
         "link":"https://qpypi312.qpython.org/simple",
         "smodule":"torch-aipy",
         "rmodule":"torch",
-        "tmodule":"torch_aipy-2.5.0.4.dist-info",
+        "tmodule":"torch_aipy-2.5.0.6.dist-info",
         "description":"Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "title":"PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "ver":"2.5.0.4",
+        "ver":"2.5.0.6",
         "downloads": "3,000+",
         "cat":"qpypi"
     },
