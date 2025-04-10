@@ -36,7 +36,7 @@
         "rmodule":"anthropic",
         "tmodule":"anthropic-aipy-0.49.0.dist-info",
         "ver":"0.49.0",
-        "title":"Anthropic",
+        "title":"Anthropic - The official Python library for Anthropic",
         "description":"The Anthropic Python library",
         "downloads": "1,000+",
         "cat":"qpypi"
