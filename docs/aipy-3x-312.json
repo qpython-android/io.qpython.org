@@ -27,7 +27,7 @@
         "downloads": "1,000+",
         "cat":"qpypi"
     },
-      {
+    {
         "src":"https://qpypi312.qpython.org/pyshop/package/anthropic-aipy",
         "rsrc":"",
         "rdate":"2023-8-7",
@@ -40,7 +40,7 @@
         "description":"The Anthropic Python library",
         "downloads": "1,000+",
         "cat":"qpypi"
-   },
+    },
     {
         "src":"https://qpypi312.qpython.org/pyshop/package/google-genai-aipy",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/g/google-genai-aipy-1.9.0.tar.gz",
