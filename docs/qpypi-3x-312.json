@@ -238,6 +238,20 @@
         "cat":"qpypi"
     },
     {
+        "src":"https://pypi.org/project/paho-mqtt",
+        "rsrc":"",
+        "rdate":"2023-11-11",
+        "link":"https://qpypi3.qpython.org/simple",
+        "smodule":"paho-mqtt",
+        "rmodule":"paho",
+        "tmodule":"paho_mqtt-2.1.0.dist-info",
+        "description":"MQTT version 5.0/3.1.1 client class",
+        "title":"Paho-mqtt - MQTT version 5.0/3.1.1 client class",
+        "ver":"2.1.0",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
         "src":"https://qpypi312.qpython.org/pyshop/package/pyzmq-qpython",
         "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/p/pyzmq-qpython-25.1.2.tar.gz",
         "rdate":"2024-12-12",
