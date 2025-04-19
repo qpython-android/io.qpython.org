@@ -126,6 +126,20 @@
         "cat":"qpypi"
     },
     {
+        "src":"https://qpypi312.qpython.org/pyshop/package/sqlite-orm-vec-qpython",
+        "rsrc":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/sqlite-orm-vec-qpython-0.1.5.tar.gz",
+        "rdate":"2024-12-12",
+        "link":"https://qpypi312.qpython.org/simple",
+        "smodule":"https://qpython-hk.oss-cn-hongkong.aliyuncs.com/QPYPI/repository312/s/sqlite-orm-vec-qpython-0.1.5.tar.gz",
+        "rmodule":"sqlite_orm",
+        "tmodule":"sqlite-orm-vec-qpython-0.1.5.dist-info",
+        "description":"A Python object relational mapper for SQLite with Vector.",
+        "title":"SQLite ORM VEC - A Python object relational mapper for SQLite with Vector",
+        "ver":"0.1.5",
+        "downloads": "500+",
+        "cat":"qpypi"
+    },
+    {
         "src":"https://pypi.org/project/mysql-connector-python",
         "rsrc":"",
         "rdate":"2023-11-11",
